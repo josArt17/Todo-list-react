@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-image: url(./halloween-wallpaper-with-zombie-hand.jpg);
+  background-repeat: repeat;
+  background-size: cover;
+}
+
+.imgContenedor {
+  max-width: 500px;
+  background: #fff;
+  margin: 1rem auto;
+}
+
+.imgContenedor img {
+  width: 100%;
+}
